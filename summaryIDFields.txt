@@ -1,0 +1,7 @@
+Columns
+
+1: cipic ID
+2: subject ID   (folder)
+3: track ID     (matrix)
+4: model ID     (i,j model)
+5: index
